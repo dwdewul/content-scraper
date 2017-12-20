@@ -1,0 +1,24 @@
+{
+  "name": "content-scraper",
+  "version": "0.0.1",
+  "description": "Web scraper for shirts4mike.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "keywords": [
+    "content",
+    "scraper"
+  ],
+  "author": "David DeWulf",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  },
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "moment": "^2.20.1",
+    "scrape-it": "^4.1.0"
+  }
+}
