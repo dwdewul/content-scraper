@@ -1,6 +1,6 @@
 # Content Scraper
 
-This node.js script scrapes shirt data from [www.shirts4mike.com](www.shirts4mike.com) 
+This node.js script scrapes shirt data from [www.shirts4mike.com](http://www.shirts4mike.com) 
 and plugs that information into a CSV named with the current date.
 
 ## To use:
